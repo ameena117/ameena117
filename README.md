@@ -75,7 +75,7 @@
 <br /><br />
 <h2 align="left">😎 Let's Connect  </h2>
 <p align="center">
-  <a href = "mailto:ameenajadallah@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "mailto:jadallah.ameena@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/ameena117/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
  
 </p>
